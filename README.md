@@ -2,7 +2,7 @@
 
 A complete end-to-end data analytics project using **Python**, **SQL**, and **Tableau** to derive insights from a global superstore's historical sales data.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes retail performance across regions, customer segments, and product categories. It aims to identify trends, optimize shipping strategies, and improve profitability using data-driven insights.
 
